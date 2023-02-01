@@ -1,2 +1,4 @@
 Commit 1 (main)
 Commit Alpha 123 (main)
+Commit 2 (new_branch)
+Commit 3 (new_branch)
