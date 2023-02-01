@@ -1,2 +1,3 @@
 Commit 1 (main)
 Commit 2 (new_branch)
+Commit 3 (new_branch)
